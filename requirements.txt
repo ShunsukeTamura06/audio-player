@@ -1,0 +1,4 @@
+numpy
+ipywidgets
+pydub
+simpleaudio # オプション、再生位置の詳細な制御に使用
